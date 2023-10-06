@@ -10,7 +10,7 @@ resources:
       # Recommended to Fork or Duplicate if custom auth flows are required
       name: microsoft/PowerAppsTestAutomation
       ref: master
-      endpoint: github.com/PowerAppsTestAutomation
+      endpoint: https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/test-studio-yaml-pipeline
 
 parameters:
  - name: image
