@@ -10,7 +10,7 @@ resources:
       # Recommended to Fork or Duplicate if custom auth flows are required
       name: microsoft/PowerAppsTestAutomation
       ref: master
-      endpoint: github.com/microsoft
+      endpoint: github.com/PowerAppsTestAutomation
 
 parameters:
  - name: image
