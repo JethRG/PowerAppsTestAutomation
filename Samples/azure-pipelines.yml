@@ -10,8 +10,6 @@ resources:
       # Recommended to Fork or Duplicate if custom auth flows are required
       name: microsoft/PowerAppsTestAutomation
       ref: master
-      # Name of the GitHub OAuth ADO Service Connection
-      endpoint: <ADO GitHub OAuth Service Connection Name>
 
 parameters:
  - name: image
